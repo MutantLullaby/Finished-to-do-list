@@ -1,0 +1,22 @@
+#add-form {
+	display: inline;
+}
+
+#done-false {
+	color: black;
+}
+
+.done-true {
+	color: gray;
+	text-decoration: line-through;
+}
+
+body {
+	background-image: url(https://lh3.googleusercontent.com/jgg7KdqtINEwnWM_hQQTN8efXL5XYST8h9oXcN1wfqkhq4v_3A4i64CDUFAPqJnOapvoUQ=s630);
+}
+
+.page
+{
+	background-color: #C3B4BF;
+	padding: 20px;
+}
